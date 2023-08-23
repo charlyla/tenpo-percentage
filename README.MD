@@ -31,8 +31,8 @@
 
 ### Install git, clone the repository and build and start services
 - sudo apt install git -y
-- git clone [URL_DE_TU_REPOSITORIO]
-- cd [NOMBRE_DEL_DIRECTORIO_DEL_REPOSITORIO]
+- git clone https://github.com/charlyla/tenpo-percentage.git
+- cd tenpo-percentage
 - docker-compose build
 - docker-compose up -d
 
